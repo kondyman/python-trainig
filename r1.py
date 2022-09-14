@@ -15,12 +15,21 @@ print(dic[x])'''
 y,z,w= list(input('Enter 3 numbers separated by Space\n').split())
 print(w)
 if y>z and y>w:
-    print(y,"Y ka Sabse Badaa!!")
+    print(y,"Y Sabse Badaa!!")
 elif z>y  and z>w:
-    print(z,"Z ka Sabse Badaa!!")
+    print(z,"Z Sabse Badaa!!")
 elif w>y and w>z:
-    print(w,"W ka Sabse Badaa!!")
+    print(w,"W Sabse Badaa!!")
 
+"""twd= int(input('Enter total Number of Working Days\n'))
+att= int(input("enter number of days attended\n"))
+at_p= (att/twd)*100
+if at_p>=75:
+    print('Jioh Betta')
+elif at_p>=55  and at_p<75:
+    print('Bach gaya Betta')
+else:
+    print('Gaye Betta!!')"""
 
     
 
