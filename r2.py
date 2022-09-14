@@ -1,13 +1,3 @@
-"""twd= int(input('Enter total Number of Working Days\n'))
-att= int(input("enter number of days attended\n"))
-at_p= (att/twd)*100
-if at_p>=75:
-    print('Jioh Betta')
-elif at_p>=55  and at_p<75:
-    print('Bach gaya Betta')
-else:
-    print('G Marao ab!!')"""
-
 #14th sept
 from operator import truediv
 import re
