@@ -8,7 +8,7 @@ print('Crazy Duniya', file =a)
 a.close()
 
 #random choding
-print('gandu'*3)
+print('lilly'*3)
 
 from datetime import date
 todays_date = date.today()
